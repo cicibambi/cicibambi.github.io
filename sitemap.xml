@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0004/</loc>
+    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0003/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0003/</loc>
+    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0004/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -110,6 +110,15 @@
   </url>
   
   <url>
+    <loc>https://cicibambi.github.io/2019/05/01/20EM/EMO0003/</loc>
+    
+    <lastmod>2024-09-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cicibambi.github.io/2019/05/01/20EM/EMO0001/</loc>
     
     <lastmod>2024-09-29</lastmod>
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2019/05/01/20EM/EMO0003/</loc>
+    <loc>https://cicibambi.github.io/2019/05/01/20EM/EMO0005/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -138,15 +147,6 @@
   
   <url>
     <loc>https://cicibambi.github.io/2019/05/01/20EM/EMO0004/</loc>
-    
-    <lastmod>2024-09-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cicibambi.github.io/2019/05/01/20EM/EMO0005/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0014/</loc>
+    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0013/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0013/</loc>
+    <loc>https://cicibambi.github.io/2023/09/04/30BM/BAM0014/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ009/</loc>
+    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ010/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ010/</loc>
+    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ009/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ006/</loc>
+    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ008/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ008/</loc>
+    <loc>https://cicibambi.github.io/2023/11/11/QZ/QZ006/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
@@ -668,7 +668,25 @@
   </url>
   
   <url>
+    <loc>https://cicibambi.github.io/2023/10/01/F1BS/BS010/</loc>
+    
+    <lastmod>2024-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cicibambi.github.io/2023/10/01/F1BS/BS011/</loc>
+    
+    <lastmod>2024-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/2023/10/01/F1BS/BS013/</loc>
     
     <lastmod>2024-09-26</lastmod>
     
@@ -686,25 +704,7 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2023/10/01/F1BS/BS010/</loc>
-    
-    <lastmod>2024-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cicibambi.github.io/2023/10/01/F1BS/BS014/</loc>
-    
-    <lastmod>2024-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cicibambi.github.io/2023/10/01/F1BS/BS013/</loc>
     
     <lastmod>2024-09-26</lastmod>
     
