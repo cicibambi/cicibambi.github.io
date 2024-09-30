@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cicibambi.github.io/2019/05/01/RS/LSIT/</loc>
+    <loc>https://cicibambi.github.io/2023/12/01/60BF/CC002/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/2024/09/01/60BF/CC/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/2023/12/01/60BF/CC001/</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -13,7 +31,16 @@
   <url>
     <loc>https://cicibambi.github.io/2024/01/01/50SM/SM001/</loc>
     
-    <lastmod>2024-09-29</lastmod>
+    <lastmod>2024-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/2019/05/01/RS/LSIT/</loc>
+    
+    <lastmod>2024-09-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -273,15 +300,6 @@
   
   <url>
     <loc>https://cicibambi.github.io/2019/05/01/30BM/LSIT/</loc>
-    
-    <lastmod>2024-09-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cicibambi.github.io/2024/09/01/60BF/CC/</loc>
     
     <lastmod>2024-09-29</lastmod>
     
