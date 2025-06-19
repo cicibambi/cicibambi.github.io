@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cicibambi.github.io/about/index.html</loc>
+    <loc>https://cicibambi.github.io/2024/01/01/50SM/SM001/</loc>
     
     <lastmod>2025-06-19</lastmod>
     
@@ -11,7 +11,34 @@
   </url>
   
   <url>
-    <loc>https://cicibambi.github.io/2024/01/01/50SM/SM001/</loc>
+    <loc>https://cicibambi.github.io/2023/11/01/F3BTA/TA011/</loc>
+    
+    <lastmod>2025-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/2023/11/01/F3BTA/TA010/</loc>
+    
+    <lastmod>2025-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/2023/11/01/F3BTA/TA009/</loc>
+    
+    <lastmod>2025-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cicibambi.github.io/about/index.html</loc>
     
     <lastmod>2025-06-19</lastmod>
     
